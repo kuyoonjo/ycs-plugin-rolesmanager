@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ycs-plugin-rolesmanager",
   "license": "MIT",
-  "repository": "https://github.com/kuyoonjo/ycs-plugin-rolesmanager.git",
+  "repository": "https://github.com/yc-server/ycs-plugin-rolesmanager.git",
   "author": {
     "name": "Yu Chen",
     "email": "yu.chen@live.ie",
